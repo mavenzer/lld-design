@@ -11,5 +11,21 @@ Requirement Capturing
  
 * Book the show in Specific timing/Specific type of  seats(balcony, near the screen).
 * Able to add-on while watching the films(Like Coke, Pop-Corn)
+* Payment Method
+* Ability to share the ticket in email/WhatsApp
+* Cancel the ticket.
+
+
+## Cinema Hall
+* Ability to list the films.
+* Availaibility of Shows in different languages.
+* Status of Theatre(Regarding the seats)
+* Cancel the Show.
+* Reschedule the show to different Hall.
+
+
+## Admin
+* Add the Particular Theatre ( KYC of the Cinema Hall)
+* 
 
   
