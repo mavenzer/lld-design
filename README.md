@@ -13,7 +13,8 @@ Requirement Capturing
 * Able to add-on while watching the films(Like Coke, Pop-Corn)
 * Payment Method
 * Ability to share the ticket in email/WhatsApp
-* Cancel the ticket.
+* Cancel the ticket. 
+* Feedback about the Theatre.
 
 
 ## Cinema Hall
@@ -26,6 +27,8 @@ Requirement Capturing
 
 ## Admin
 * Add the Particular Theatre ( KYC of the Cinema Hall)
-* 
+* Remove the particular Theatre.
+* Customer Support.
+
 
   
